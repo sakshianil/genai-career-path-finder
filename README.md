@@ -106,12 +106,11 @@ Open the local URL shown in the terminal (usually `http://localhost:8501`).
 
 ## Screenshots
 
-Add screenshots after running the app:
-- `screenshots/home.png`
-- `screenshots/deterministic-results.png`
-- `screenshots/llm-report.png`
+### PDF Report (Clickable Preview)
 
-Then reference them in this README.
+[![Gen-AI Career Path Finder Report Preview](screenshots/report-preview.png)](screenshots/Gen-AI%20Career%20Path%20Finder.pdf)
+
+Click the preview image above to open the full PDF report.
 
 ## Future Improvements
 
